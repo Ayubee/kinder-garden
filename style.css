@@ -1,0 +1,33 @@
+.div_1 {
+    justify-content: space-around;
+    align-items: center;
+}
+.slider_1 {
+    width: 1250px;
+    height: 555px;
+    margin-top: 20px;
+    margin-left: 55px;
+}
+.img_1 {
+    width: 1000px;
+    height: 555px;
+}
+
+.img_2 {
+    height: 200px;
+}
+.img_3 {
+    width: 200px;
+    height: 200px;
+}
+.card_left {
+    margin-left: 760px;
+}
+.card_right {
+    margin-top: 20px;
+    margin-left: 55px;
+}
+
+.navbar.bg-primary .nav-link {
+    color: #ffffff;
+}
